@@ -62,3 +62,6 @@ Additional Notes
 • A rate-limiting middleware is included to restrict excessive API requests
 • Redis caching reduces repeated third-party calls and improves overall performance
 • Errors are handled gracefully, and clear messages are returned for common issues
+
+
+project url: https://roadmap.sh/projects/weather-api-wrapper-service
